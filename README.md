@@ -8,7 +8,7 @@ This project implements an AI that plays Tic-Tac-Toe optimally using the Minimax
 
 To get started with the project, follow the steps below:
 
-1. **Clone the project**: You can clone the project using: `https://github.com/musty-ess/tic-tac-toe.git`
+1. **Clone the project**: You can clone the project using: `git clone https://github.com/musty-ess/TicTacToe-AI-with-Minimax.git`
    
 2. **Install dependencies**: After cloning the repo, navigate to the project directory and run the following command to install the necessary Python package (`pygame`): `pip3 install -r requirements.txt`
 3. **Run the game**: The command for running the game is: `python runner.py`
