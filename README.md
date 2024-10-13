@@ -11,6 +11,8 @@ To get started with the project, follow the steps below:
 2. **Install dependencies**: After cloning the repo, navigate to the project directory and run the following command to install the necessary Python package (`pygame`): `pip3 install -r requirements.txt`
 3. **Run the game**: The command for running the game is: `python runner.py`
 
+![Sample Output](assets/output_sample.png)
+
 ## Project Overview
 
 The project consists of two main files:
