@@ -1,4 +1,4 @@
-# Tic-Tac-Toe AI with Minimax
+# TicTacToe AI with Minimax
 
 ![Sample Output](assets/output_sample.png)
 
