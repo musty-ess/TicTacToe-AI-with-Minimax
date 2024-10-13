@@ -59,5 +59,3 @@ Inside `tictactoe.py`:
 By implementing the Minimax algorithm and completing the core game logic, I was able to create an unbeatable Tic-Tac-Toe AI. The game is now fully functional with a user-friendly interface, and the AI always ensures an optimal outcome.
 
 Feel free to play against the AI yourself—you won't be able to beat it!
-
-# tic-tac-toe
