@@ -1,5 +1,7 @@
 # Tic-Tac-Toe AI with Minimax
 
+![Sample Output](assets/output_sample.png)
+
 This project implements an AI that plays Tic-Tac-Toe optimally using the Minimax algorithm. The AI is designed to never lose when played against, as Tic-Tac-Toe, when played optimally by both players, always results in a tie. The project includes a graphical interface for easy interaction.
 
 ## Getting Started
@@ -10,8 +12,6 @@ To get started with the project, follow the steps below:
    
 2. **Install dependencies**: After cloning the repo, navigate to the project directory and run the following command to install the necessary Python package (`pygame`): `pip3 install -r requirements.txt`
 3. **Run the game**: The command for running the game is: `python runner.py`
-
-![Sample Output](assets/output_sample.png)
 
 ## Project Overview
 
